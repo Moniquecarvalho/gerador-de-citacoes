@@ -5,7 +5,7 @@
   <p align="center">
 Estou embarcando em um desafio de 50 dias e o primeiro desafio é criar um gerador de citações usando HTML, CSS e JavaScript.
 <br />
-    <a href="#"><strong>Visualizar o projeto »</strong></a>
+    <a href="https://moniquecarvalho.github.io/gerador-de-citacoes/"><strong>Visualizar o projeto »</strong></a>
     <br />
     <br />
 </div>
