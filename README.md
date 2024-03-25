@@ -11,7 +11,9 @@ Estou embarcando em um desafio de 50 dias e o primeiro desafio é criar um gerad
 </div>
 
 ## 💻 Imagem do Projeto 
-![c#](https://github.com/Moniquecarvalho/desafio-50-dias-projetos-em-js/assets/96195106/3f19a567-e078-4867-8732-fcf7259a5392)
+![citacoes](https://github.com/Moniquecarvalho/gerador-de-citacoes/assets/96195106/bfb856e1-cb3d-48d3-bc18-7978291d76dd)
+
+
 
 
 ## 📂 Estrutura do Projeto
