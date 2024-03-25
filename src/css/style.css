@@ -1,0 +1,100 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background: #1E90FF;
+    font-family: 'poppins', sans-serif;
+}
+
+.container {
+    padding: 30px;
+    width: 360px;
+    background: #FFF;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    border-radius: 7px;
+    padding-bottom: 38px;
+    padding-top: 32px;
+}
+
+.container .title {
+    text-align: center;
+    font-size: 21px;
+    color:#1E90FF;
+}
+
+.container .quote-box {
+    margin-top: 25px;
+}
+
+.container .quote-box .fa-quote-left {
+    font-size: 37px;
+    color:#1E90FF;
+}
+
+.container .quote-box h3 {
+    color: #FFF;
+    font-size: 18px;
+    font-weight: 400;
+    margin-top: 3px;
+    color: #000;
+    font-style: italic;
+}
+
+.container .author {
+    padding: 5px;
+    border-top: 1px solid #1E90FF;
+    width: 60px;
+    padding-left: 0;
+    padding-top: 1px;
+    margin-top: 13px;
+}
+
+.container .author span {
+    white-space: nowrap;
+    color: #000;
+    font-size: 14px;
+    font-style: italic;
+}
+
+.container .all-btns {
+    margin-top: 17px;
+}
+
+.container .all-btns button {
+    all: unset;
+    width: 45px;
+    height: 45px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid #FFF;
+    border-radius: 10px;
+    float: left;
+    margin-left: 21px;
+    transition: all .5s;
+    background: #1E90FF;
+    color: #FFF;
+}
+
+.container .all-btns .copy-btn span {
+    position: absolute;
+    font-size: 8px;
+    display: none;
+}
+
+.container .all-btns .twitt-btn {
+    background: #000;
+}
+
+::selection {
+    background: rgb(100, 149, 237,0.8);
+    color: #FFF;
+}
